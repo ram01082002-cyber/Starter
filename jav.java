@@ -6,7 +6,7 @@ public class jav
         if(a %2==0) System.out.println(" jug ");
         else
             System.out.println("hrd");
-
+  
         
     }
 }
