@@ -2,8 +2,8 @@ public class one
 {
     public static void main(String[] args)
     {
-        int a=10, b=15;
-        a=+5;
-        b=-5;
+    for(int i=1; i<=10; i=i+1)
+    System.out.println( i+" * 2 = "+i*2 );
+
     }
 }
