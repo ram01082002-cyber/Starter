@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class array {
     public static void main(String[] args)
     {
@@ -11,8 +10,5 @@ public class array {
         num[3] = san.nextInt();
         num[4] = san.nextInt();
         System.out.print(num[0]+num[1]+num[2]+num[3]+num[4]);
-
-
     }
-    
 }

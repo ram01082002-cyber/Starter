@@ -1,3 +1,4 @@
+package practiscode;
 public class p2_2 {
     public static void main(String[] args)
     {

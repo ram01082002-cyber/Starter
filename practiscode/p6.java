@@ -1,3 +1,4 @@
+package practiscode;
 public class p6 {
     public static void main(String[] args) {
         int n =10;
